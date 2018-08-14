@@ -7,7 +7,7 @@ This directory is to test Git for learnning.
 - mkdir local_dir
 - cd local_dir
 - git init
-- git remote add origin https://github.com/junji64/Pattern-recognition.git
+- git remote add origin https://github.com/junji64/*****.git
 - git pull origin master
 - ... working on it
 - git add --all && git commit -m "Some Messages"
